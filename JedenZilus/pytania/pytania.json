@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "tresc": "Jaka cze\u015B\u0107 cia\u0142a u rodu Gender\u00F3w przypomina ceg\u0142e",
+    "odpowiedz": "Stopa",
+    "czylatwe": true,
+    "kategoria": "Znane osoby"
+  },
+  {
+    "id": 3,
+    "tresc": "Ile to 8*8*0",
+    "odpowiedz": "0",
+    "czylatwe": true,
+    "kategoria": "Matematyka"
+  },
+  {
+    "id": 4,
+    "tresc": "Czy w piosence wilk\u00F3w, tytu\u0142owa ba\u015Bka mia\u0142a zwi\u0119d\u0142e zgni\u0142e cyce?",
+    "odpowiedz": "Nie",
+    "czylatwe": true,
+    "kategoria": "Muzyka"
+  },
+  {
+    "id": 5,
+    "tresc": "Czy mezopotamia to p\u0142yta Mezego czy staro\u017Cytna kraina geograficzna?",
+    "odpowiedz": "Kraina geograficzna",
+    "czylatwe": true,
+    "kategoria": "Geografia"
+  },
+  {
+    "id": 6,
+    "tresc": "Najpierw by\u0142 killer jeden a potem by\u0142o?",
+    "odpowiedz": "Killer\u00F3w Dw\u00F3ch",
+    "czylatwe": true,
+    "kategoria": "Filmy"
+  },
+  {
+    "id": 7,
+    "tresc": "Do jakiej klasy drzew nale\u017Cy \u015Bwierk",
+    "odpowiedz": "Iglastych",
+    "czylatwe": true,
+    "kategoria": "Biologia"
+  },
+  {
+    "id": 8,
+    "tresc": "W jakim kraju odby\u0142y si\u0119 igrzyska olimpijskie w 2024 roku?",
+    "odpowiedz": "Francja",
+    "czylatwe": true,
+    "kategoria": "Sport"
+  },
+  {
+    "id": 9,
+    "tresc": "Cpu nazywamy jak\u0105 cz\u0119\u015B\u0107 komputera?",
+    "odpowiedz": "Procesor",
+    "czylatwe": true,
+    "kategoria": "Technologia"
+  },
+  {
+    "id": 10,
+    "tresc": "Jak\u0105 bitw\u0119 kt\u00F3ra wydarzy\u0142a si\u0119 w roku 1410 przedstawi\u0142 na obrazie jan matejko",
+    "odpowiedz": "Bitwa pod grunwaldem",
+    "czylatwe": true,
+    "kategoria": "Historia"
+  },
+  {
+    "id": 11,
+    "tresc": "Jak nazywa si\u0119 aktor kt\u00F3ry jest by\u0142ym gubernatorem stanu kalifornia",
+    "odpowiedz": "Arnold Schwarznegger",
+    "czylatwe": false,
+    "kategoria": "Znane osoby"
+  },
+  {
+    "id": 12,
+    "tresc": "Jakiej maszyny prostej podr\u0119cznikowym przyk\u0142adem jest hu\u015Btawka dla dzieci",
+    "odpowiedz": "D\u017Awignia prosta",
+    "czylatwe": false,
+    "kategoria": "Fizyka"
+  },
+  {
+    "id": 14,
+    "tresc": "Jak nazywa si\u0119 kompozytor g\u0142\u00F3wnego utworu Batmana Tima Burtona, za\u0142o\u017Cyciel kapeli Oingo Boingo",
+    "odpowiedz": "Danny Elfman",
+    "czylatwe": false,
+    "kategoria": "Muzyka"
+  },
+  {
+    "id": 15,
+    "tresc": "Jaka jest najd\u0142u\u017Csza rzeka na \u015Bwiecie?",
+    "odpowiedz": "Amazonka",
+    "czylatwe": false,
+    "kategoria": "Geografia"
+  },
+  {
+    "id": 16,
+    "tresc": "Jak nazywa si\u0119 meksyka\u0144ski re\u017Cyser, znany z tworzenia poczwar, pokrak oraz strasznych stwor\u00F3w",
+    "odpowiedz": "Guillermo del Toro",
+    "czylatwe": false,
+    "kategoria": "Filmy"
+  },
+  {
+    "id": 17,
+    "tresc": "Ile m\u00F3zg\u00F3w posiada o\u015Bmiornica?",
+    "odpowiedz": "9",
+    "czylatwe": false,
+    "kategoria": "Biologia"
+  },
+  {
+    "id": 18,
+    "tresc": "Ko\u0144cz\u0105cy swoj\u0105 kariere, Wojciech Szcz\u0119sny, ostatnio by\u0142 widziany w barwach jakiego klubu?",
+    "odpowiedz": "Juventus",
+    "czylatwe": false,
+    "kategoria": "Sport"
+  },
+  {
+    "id": 19,
+    "tresc": "Prawo m\u00F3wi\u0105ce o proporcjonalno\u015Bci napi\u0119cia i nat\u0119\u017Cenia pr\u0105du sta\u0142ego to?",
+    "odpowiedz": "Prawo Ohma",
+    "czylatwe": false,
+    "kategoria": "Technologia"
+  },
+  {
+    "id": 20,
+    "tresc": "Ile trwa\u0142a wojna 100 letnia?",
+    "odpowiedz": "116 lat",
+    "czylatwe": false,
+    "kategoria": "Historia"
+  },
+  {
+    "id": 21,
+    "tresc": "Jaka jest suma miar k\u0105t\u00F3w w tr\u00F3jk\u0105cie",
+    "odpowiedz": "180 stopni",
+    "czylatwe": true,
+    "kategoria": "Matematyka"
+  },
+  {
+    "id": 23,
+    "tresc": "Kto jest wykonawc\u0105 piosenki pod tytu\u0142em DTKJ",
+    "odpowiedz": "Ryszard Peja",
+    "czylatwe": true,
+    "kategoria": "Muzyka"
+  },
+  {
+    "id": 24,
+    "tresc": "Na jakiej ulicy w poznaniu \u015Bwi\u0119towany jest 11 listopada?",
+    "odpowiedz": "\u015Aw Marcin",
+    "czylatwe": true,
+    "kategoria": "Geografia"
+  },
+  {
+    "id": 25,
+    "tresc": "Co jest ci\u0119\u017Csze, kilo pierzu czy kilo stali",
+    "odpowiedz": "Wa\u017C\u0105 tyle samo",
+    "czylatwe": true,
+    "kategoria": "Fizyka"
+  },
+  {
+    "id": 26,
+    "tresc": "Jak inaczej m\u00F3wimy na mi\u0119sie\u0144 dwug\u0142owy ramienia",
+    "odpowiedz": "Biceps",
+    "czylatwe": true,
+    "kategoria": "Biologia"
+  },
+  {
+    "id": 27,
+    "tresc": "Kt\u00F3ry ze skoczk\u00F3w poprzysi\u0105g\u0142 zemst\u0119 na Jan Ahonenie",
+    "odpowiedz": "Adam Ma\u0142ysz",
+    "czylatwe": true,
+    "kategoria": "Sport"
+  },
+  {
+    "id": 28,
+    "tresc": "Czy megabit jest wi\u0119kszy od megabajtu?",
+    "odpowiedz": "Nie",
+    "czylatwe": true,
+    "kategoria": "Technologia"
+  },
+  {
+    "id": 30,
+    "tresc": "Jak nazywa\u0142a si\u0119 ta kurwa 60 co sprzedawa\u0142a na komendzie Fineasza i Ferba?",
+    "odpowiedz": "Fretka",
+    "czylatwe": true,
+    "kategoria": "Filmy"
+  },
+  {
+    "id": 31,
+    "tresc": "Kto by\u0142 pierwsz\u0105 kobiet\u0105 kt\u00F3ra otrzyma\u0142a nagrod\u0119 Nobla",
+    "odpowiedz": "maria-sk\u0142odowska-curie",
+    "czylatwe": false,
+    "kategoria": "Znane osoby"
+  },
+  {
+    "id": 32,
+    "tresc": "Jak nazywa si\u0119 urz\u0105dzenie s\u0142u\u017C\u0105ce do przyspieszania cz\u0105stek elementarnych do pr\u0119dko\u015Bci bliskich do pr\u0119dko\u015Bci \u015Bwiat\u0142a",
+    "odpowiedz": "Akcelerator cz\u0105stek",
+    "czylatwe": false,
+    "kategoria": "Fizyka"
+  },
+  {
+    "id": 33,
+    "tresc": "Ile rozwi\u0105za\u0144 ma r\u00F3wnanie kwadratowe o delcie r\u00F3wnej 0",
+    "odpowiedz": "jedno ma",
+    "czylatwe": false,
+    "kategoria": "Matematyka"
+  },
+  {
+    "id": 34,
+    "tresc": "Jerry Garcia, by\u0142y gitarzysta zespo\u0142u Grateful Dead straci\u0142 wi\u0119kszo\u015B\u0107 jakiej cz\u0119\u015Bci cia\u0142a?",
+    "odpowiedz": "Palca",
+    "czylatwe": false,
+    "kategoria": "Muzyka"
+  },
+  {
+    "id": 35,
+    "tresc": "Jakie jest najg\u0142\u0119bsze miejsce na ziemi?",
+    "odpowiedz": "R\u00F3w Maria\u0144ski",
+    "czylatwe": false,
+    "kategoria": "Geografia"
+  },
+  {
+    "id": 36,
+    "tresc": "W filmie Django Chrisopther Waltz wciela si\u0119 w niby doktora, jaka by\u0142a jego niby specjalizacja",
+    "odpowiedz": "Dentysta",
+    "czylatwe": false,
+    "kategoria": "Filmy"
+  }
+]

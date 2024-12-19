@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\pytaniajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\pytaniajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\pages\\gra\u0144sko.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\pages\\gra\u0144sko.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\pytaniabaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\pytaniabaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\jedenzilus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\jedenzilus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\jedenzilus.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\jedenzilus.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\pages\\gra\u0144sko.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\pages\\gra\u0144sko.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\pytanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\pytanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\jedenzilus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\jedenzilus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\jedenzilus\\jedenzilus\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F7AD54F-24C7-425A-876D-721CA63C6E66}|JedenZilus\\JedenZilus.csproj|solutionrelative:jedenzilus\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PytaniaJson.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\PytaniaJson.cs",
+              "RelativeDocumentMoniker": "JedenZilus\\PytaniaJson.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\PytaniaJson.cs",
+              "RelativeToolTip": "JedenZilus\\PytaniaJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:28:42.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gra\u0144sko.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Pages\\gra\u0144sko.cshtml",
+              "RelativeDocumentMoniker": "JedenZilus\\Pages\\gra\u0144sko.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Pages\\gra\u0144sko.cshtml",
+              "RelativeToolTip": "JedenZilus\\Pages\\gra\u0144sko.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T13:49:18.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PytaniaBaza.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\PytaniaBaza.cs",
+              "RelativeDocumentMoniker": "JedenZilus\\PytaniaBaza.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\PytaniaBaza.cs",
+              "RelativeToolTip": "JedenZilus\\PytaniaBaza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:02:25.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gra\u0144sko.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Pages\\gra\u0144sko.cshtml.cs",
+              "RelativeDocumentMoniker": "JedenZilus\\Pages\\gra\u0144sko.cshtml.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Pages\\gra\u0144sko.cshtml.cs",
+              "RelativeToolTip": "JedenZilus\\Pages\\gra\u0144sko.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:49:43.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Program.cs",
+              "RelativeDocumentMoniker": "JedenZilus\\Program.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Program.cs",
+              "RelativeToolTip": "JedenZilus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:59:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\appsettings.json",
+              "RelativeDocumentMoniker": "JedenZilus\\appsettings.json",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\appsettings.json",
+              "RelativeToolTip": "JedenZilus\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T15:52:54.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "JedenZilus\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Pages\\Index.cshtml",
+              "RelativeToolTip": "JedenZilus\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T18:39:27.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pytanie.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\pytanie.cs",
+              "RelativeDocumentMoniker": "JedenZilus\\pytanie.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\pytanie.cs",
+              "RelativeToolTip": "JedenZilus\\pytanie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:57:36.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JedenZilus.csproj",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\JedenZilus.csproj",
+              "RelativeDocumentMoniker": "JedenZilus\\JedenZilus.csproj",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\JedenZilus.csproj",
+              "RelativeToolTip": "JedenZilus\\JedenZilus.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T11:59:34.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JedenZilus.http",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\JedenZilus.http",
+              "RelativeDocumentMoniker": "JedenZilus\\JedenZilus.http",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\JedenZilus.http",
+              "RelativeToolTip": "JedenZilus\\JedenZilus.http",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-26T16:01:58.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JedenZilus\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JedenZilus\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T14:52:58.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JedenZilus",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\JedenZilus.csproj",
+              "RelativeDocumentMoniker": "JedenZilus\\JedenZilus.csproj",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\JedenZilus.csproj",
+              "RelativeToolTip": "JedenZilus\\JedenZilus.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T16:35:47.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "JedenZilus\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "JedenZilus\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T16:24:04.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JedenZilus\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\JedenZilus\\JedenZilus\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JedenZilus\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T16:40:36.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

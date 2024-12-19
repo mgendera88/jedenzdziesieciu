@@ -1,0 +1,27 @@
+﻿@JedenZilus_HostAddress = https://localhost:7104
+
+
+POST {{JedenZilus_HostAddress}}/pulapytan
+Content-Type:application/json
+
+    {
+        "id":2,
+        "tresc":"Jaką częścią przyspieszenia grawitacyjnego jest to na księżycu, odpowiedź podaj w postaci ułamka",
+        "odpowiedz":"1/6",
+        "czylatwe":false,
+        "kategoria":"fizyka"
+    }
+
+###
+
+GET {{JedenZilus_HostAddress}}/pulapytan/latwe
+
+###
+
+GET {{JedenZilus_HostAddress}}/pulapytan/trudne
+
+###
+
+GET {{JedenZilus_HostAddress}}/pulapytan
+
+###

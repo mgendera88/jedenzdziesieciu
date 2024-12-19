@@ -1,0 +1,51 @@
+﻿@page "{handeler?}"
+@model JedenZilus.Pages.grańskoModel
+@{
+	ViewData["Title"] = "Pytania";
+}
+<script src="/js/site.js"></script>
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<div class="text-center" style="clear:both">
+    <h1>Wygeneruj pytanie!</h1>
+    <form method="Post" asp-page-handler="Latwe">
+        <button type="submit">GENERUJ ŁATWE</button>
+    </form>
+    <form method="post" asp-page-handler="Trudne">
+        <button type="submit">GENERUJ TRUDNE</button>
+    </form>
+    <form method="post" asp-page-handler="Losowe">
+        <button type="submit">GENERUJ LOSOWE</button>
+    </form>
+    <p>
+        <ul>
+           @if (Model.Pytania != null && Model.Pytania.Any())
+           {
+                foreach(var pytanie in Model.Pytania){
+                    <li>@pytanie.kategoria</li>
+                    <li>@pytanie.tresc</li>
+                    <li>@pytanie.odpowiedz</li>
+                }
+            }
+            else{
+                <li> nie ma</li>
+            }
+        </ul>
+    </p>
+</div>
+<div class="foots">
+    Gracz 1:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px"/>
+    Gracz 2:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    <br />
+    Gracz 3:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    Gracz 4:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    <br />
+    Gracz 5:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    Gracz 6:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    <br />
+    Gracz 7:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    Gracz 8:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    <br />
+    Gracz 9:    <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+    Gracz 10:   <input type="number" step="10" /> Życia :<input type="number" value="3" style="width:50px" />
+
+</div>
